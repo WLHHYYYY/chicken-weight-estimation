@@ -25,10 +25,10 @@ Prerequisites before running the Inference program:
 ### Steps
 
 1. Clone the project.
-2. Go to the project directory and run: 
-    
+2. Go
+     to the project directory and run: 
     ```bash
-    poetry install --sync
+     poetry install --sync
     ```
     
 
